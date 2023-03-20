@@ -685,6 +685,6 @@ Developer
 
 ここまでのサンプル
 
-<video src="../public/demo/demo-1" width="500" height="200" controls>
+<video src="./public/demo-1.mp4" width="500" height="200" controls>
   Your browser does not support the video tag.
 </video>
